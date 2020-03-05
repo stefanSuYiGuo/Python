@@ -1,7 +1,7 @@
 # The usage of OpenSSH
 ---
 *Author 苏义国 Stefan*
-> Recently, we are supposed to use ***UICVPN*** to connect with *Jupyterhub*. But there is a desperate sentence that **For Windows users, open PowerShell if you are Window 101803 or newer, else you should use other ssh tools.** For me, unfortunately I am an outlier. So with teacher's suggestion, I focus on other ssh tool called OpenSSH. Here is some tips you may need.
+> Recently, we are supposed to use ***UICVPN*** to connect with *Jupyterhub*. But there is a desperate sentence that **For Windows users, open PowerShell if you are Window 1018 03 or newer, else you should use other ssh tools.** For me, unfortunately I am an outlier. So with teacher's suggestion, I focus on other ssh tool called OpenSSH. Here is some tips you may need.
 
 ## Tips for user of OpenSSH
 1. First, you should install OpenSSH software. But you cannot install it from [official website](https://www.openssh.com/ "OpenSSH Official Website") directly, because it's hard to find the download file. If you try to search "OpenSSH download for Windows", you will get an zip file, including plenty of .nsi files, which are absolutely inconvenient. For user-friendly, I provide an official website with an executable .exe file. Click [here](https://www.mls-software.com/opensshd.html "OpenSSH executable download").
